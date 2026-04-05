@@ -1,12 +1,12 @@
 # Hi there, I'm Muhammad Gathan Prayoga! 👋
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="https://portofolio-gathan.netlify.app" target="_blank">
-    <img src="https://shields.io" alt="Portfolio">
-  </a>
+  <a href="https://www.linkedin.com/in/gathan-prayoga-314090377" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://portofolio-gathan.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
 </p>
 
 
