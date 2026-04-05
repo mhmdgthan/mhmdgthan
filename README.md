@@ -4,10 +4,11 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
-  <a href="https://netlify.app" target="_blank">
+  <a href="https://portofolio-gathan.netlify.app" target="_blank">
     <img src="https://shields.io" alt="Portfolio">
   </a>
 </p>
+
 
 
 I am a **Web & Mobile Developer** based in **Bandung, West Java**. I have a strong interest in building web and mobile applications, specializing in Backend and Cross-Platform development.
