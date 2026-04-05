@@ -1,14 +1,14 @@
 # Hi there, I'm Muhammad Gathan Prayoga! 👋
 
 <p align="left">
-<p align="left">
-  <a href="https://www.linkedin.com/in/gathan-prayoga-314090377" target="_blank">
-    <img src="https://shields.io">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
   </a>
-  <a href="https://portofolio-gathan.netlify.app" target="_blank">
-    <img src="https://shields.io">
+  <a href="https://netlify.app" target="_blank">
+    <img src="https://shields.io" alt="Portfolio">
   </a>
 </p>
+
 
 I am a **Web & Mobile Developer** based in **Bandung, West Java**. I have a strong interest in building web and mobile applications, specializing in Backend and Cross-Platform development.
 
