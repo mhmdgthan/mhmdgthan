@@ -11,7 +11,7 @@
 
 
 
-I am a **Web & Mobile Developer** based in **Bandung, West Java**. I have a strong interest in building web and mobile applications, specializing in Backend and Cross-Platform development.
+I am a **Web Developer** based in **Bandung, West Java**. I have a strong interest in building web and mobile applications, specializing in Backend and Cross-Platform development.
 
 ### 🚀 About Me
 - 🎓 **Education:** Software Engineering at SMK Bakti Nusantara 666 (2023 - 2026).
